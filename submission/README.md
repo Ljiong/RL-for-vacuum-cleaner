@@ -7,6 +7,8 @@ We provided envoriment files in Windows and MACOS (sorry for Linux users!), plea
 
 The unity interaction interface will pop up when you run the test, which uses the **port 5004**. Please follow the instructions in **Headless.ipynb** if you would like to change it.
 
+Moreover, we made a demo video for this project and here is the video link: https://www.youtube.com/watch?v=etVIk2LVWXc&t=3s
+
 Have fun!
 
 Best regards,
